@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">firstlayout</string>
+    <string name="msg">Type here</string>
+    <string name="button_send">Press here</string>
+    <string name="button_second">Button 2</string>
 </resources>
