@@ -9,6 +9,8 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String TXT = "whatiwant";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
