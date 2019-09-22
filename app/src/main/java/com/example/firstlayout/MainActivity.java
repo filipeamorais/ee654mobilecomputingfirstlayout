@@ -25,6 +25,5 @@ public class MainActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         intent.putExtra(TXT, message);
         startActivity(intent);
-
     }
 }
